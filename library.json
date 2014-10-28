@@ -1,0 +1,82 @@
+{
+    "books":[
+        {
+            "title":"Zeus: A Journey Through Greece in the Footsteps of a God",
+            "author":"Stone, Tom"
+        },
+        {
+            "title":"Zarafa: a giraffes true story, from deep in Africa to the heart of Paris",
+            "author":"Allin, Michael"
+        },
+        {
+            "title":"Your Safari Dragons: In Search of the Real Komodo Dragon",
+            "author":"White, Daniel"
+        }
+    ],
+    "authors":[
+        {
+            "name":"White, Daniel",
+            "bio":"n/a"
+        },
+        {
+            "name":"Stone, Tom",
+            "bio":"n/a"
+        },
+        {
+            "name":"Allin, Michael",
+            "bio":"n/a"
+        }
+    ],
+    "readers":[
+        {
+            "name":"Kim Gordon",
+            "email":"kim@gordon.com",
+            "city":"NY",
+            "street":"28",
+            "house":"147"
+        },
+        {
+            "name":"Thurston Moore",
+            "email":"thurston@moore.com",
+            "city":"NY",
+            "street":"51",
+            "house":"644"
+        },
+        {
+            "name":"Lee Ranaldo",
+            "email":"lee@ranaldo.com",
+            "city":"NY",
+            "street":"34",
+            "house":"46"
+        },
+        {
+            "name":"Steve Shelley",
+            "email":"steve@shelley.com",
+            "city":"NY",
+            "street":"98",
+            "hose":"2"
+        }
+    ],
+    "orders":[
+        {
+            "book":"Zarafa: a giraffes true story, from deep in Africa to the heart of Paris",
+            "reader":"Kim Gordon",
+            "date":"2014-01-12"
+        },
+        {
+            "book":"Zeus: A Journey Through Greece in the Footsteps of a God",
+            "reader":"Thurston Moore",
+            "date":"2014-06-15"
+        },
+        {
+            "book":"Your Safari Dragons: In Search of the Real Komodo Dragon",
+            "reader":"Lee Ranaldo ",
+            "date":"2014-10-07"
+        },
+        {
+            "book":"Your Safari Dragons: In Search of the Real Komodo Dragon",
+            "reader":"Steve Shelley",
+            "date":"2014-05-24"
+        }
+    ]
+}
